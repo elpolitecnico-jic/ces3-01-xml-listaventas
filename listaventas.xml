@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listaventas>
+    <venta>
+        <codfactura>FC0001</codfactura>
+        <importe>3000</importe>
+        <comprador>Julian Alzate</comprador>
+        <vendedor>Pedro Pablo</vendedor>
+        <fecha>2022-10-09</fecha>
+    </venta>
+    <venta>
+        <codfactura>FC0002</codfactura>
+        <importe>54500</importe>
+        <comprador>Ana Diaz</comprador>
+        <vendedor>Hector leon</vendedor>
+        <fecha>2022-11-07</fecha>
+    </venta>
+    <venta>
+        <codfactura>FC0003</codfactura>
+        <importe>978000</importe>
+        <comprador>Daniel Rodriguez</comprador>
+        <vendedor>Veroniza Restrepo</vendedor>
+        <fecha>2022-09-05</fecha>
+    </venta>
+</listaventas>
