@@ -1,5 +1,5 @@
 <!ELEMENT listaventas (venta)+>
-<!ELEMENT venta (codfactura, importe+, comprador, vendedor, fecha )?>
+<!ELEMENT venta (codfactura, importe, comprador, vendedor, fecha)*>
 <!ELEMENT codfactura (#PCDATA)>
 <!ELEMENT importe (#PCDATA)>
 <!ELEMENT comprador (#PCDATA)>
